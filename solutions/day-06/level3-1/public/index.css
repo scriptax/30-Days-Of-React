@@ -1,0 +1,38 @@
+.wrapperStyle {
+  width: 100%;
+  font-family: Calibri;
+  font-size: 18px;
+  text-align: center;
+}
+
+.chartWrapper {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto 0;
+}
+.chartWrapper span {
+  display: inline-block;
+}
+
+.countryNameStyle {
+  width: 9%; 
+  height: 30px;
+  text-align: left;
+  line-height: 30px;
+}
+
+.barWrapperStyle {
+  width: 71%;
+  text-align: left;
+}
+
+.barStyle {
+  height: 30px;
+  background-color: orange;
+  border-radius: 2px;
+}
+
+.popCountStyle {
+  width: 20%;
+}
