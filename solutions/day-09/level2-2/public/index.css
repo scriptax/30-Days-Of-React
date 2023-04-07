@@ -1,0 +1,15 @@
+.appContainer {
+  margin: 0 auto 0;
+  width: 700px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px grey;
+  font-family: 'Verdana';
+  overflow: hidden;
+}
+
+.header, .main, .footer {
+  font-family: 'Arial';
+  width: 100%;
+  padding: 20px;
+  white-space: break-spaces;
+}
